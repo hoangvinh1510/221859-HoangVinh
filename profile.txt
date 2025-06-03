@@ -1,4 +1,4 @@
-Name: Your Name
+Name: Hoàng vinh
 Interests: Coding, Design
 Skills
-Đã thay đổi trong nhánh feature-info
+Vinh thay đổi trong nhánh feature-info
